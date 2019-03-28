@@ -1,0 +1,10 @@
+{
+  "simulation": "ImporterSimulation",
+  "simulationId": "importersimulation",
+  "start": 1553758614452,
+  "description": "",
+  "scenarios": ["ImporterSimulation"],
+  "assertions": [
+
+  ]
+}

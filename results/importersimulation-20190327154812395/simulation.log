@@ -1,0 +1,4 @@
+RUN	ImporterSimulation	importersimulation	1553701692395	 	3.0.3
+ERROR	request: Failed to build request: url localhost:9000/health/ can't be parsed into an Uri: j.l.IllegalArgumentException: localhost:9000/health/ could not be parsed into a proper Uri, missing host 	1553701693259
+USER	ImporterSimulation	1	START	1553701693251	1553701693251
+USER	ImporterSimulation	1	END	1553701693251	1553701698275

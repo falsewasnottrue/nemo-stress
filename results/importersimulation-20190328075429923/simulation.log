@@ -1,0 +1,4 @@
+RUN	ImporterSimulation	importersimulation	1553759669923	 	3.0.3
+ERROR	request-0: Failed to build request: No attribute named 'data' is defined 	1553759670689
+USER	ImporterSimulation	1	START	1553759670662	1553759670662
+USER	ImporterSimulation	1	END	1553759670662	1553759670692
